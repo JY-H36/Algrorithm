@@ -1,4 +1,4 @@
-
+//问题描述：原地逆置不带头结点的单链表
 
 public class ReverseSingleLs {
     //创建内部结点类
